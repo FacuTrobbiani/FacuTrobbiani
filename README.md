@@ -32,15 +32,8 @@ Soy Facu, tengo 19 años y vivo en Villa María, Córdoba, Argentina. Estoy curs
 <br>
 
 -📊 ESTADISTICAS
-<div align="center"> ![GitHub Streak](https://streak-stats.demolab.com?user=FacuTrobbiani&theme=default) </div>
 
-<br>
-
-<img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=tu-usuario&theme=tokyonight&hide_border=true" />
-
-</div>
-
-<br>
+<div align="center"> <img width="500" src="https://github-streak-bijay-shre-stha.vercel.app/api/streak-image?username=FacuTrobbiani&theme=default" alt="GitHub Streak" /> </div>
 
 -📬 CONTACTO
 
