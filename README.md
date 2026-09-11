@@ -1,31 +1,17 @@
-<!--
-  README de perfil de GitHub — Facundo Trobbiani
-  Reemplazá "tu-usuario" por tu username real de GitHub y "tu-linkedin"/"tu-mail" por tus datos.
-  Este archivo va en un repo que se llame IGUAL que tu usuario (ej: si tu user es "facutrob",
-  el repo debe llamarse "facutrob/facutrob") para que GitHub lo muestre en tu perfil.
--->
-
 <div align="center">
-
-<!-- Encabezado con gradiente animado -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Facundo%20Trobbiani&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Estudiante%20de%20Sistemas%20%7C%20Desarrollador%20en%20formación&descAlignY=55&descSize=18" alt="header banner" />
-
-<!-- Texto animado tipo "typing effect" -->
 <a href="https://github.com/tu-usuario">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Analista+de+Sistemas+en+formación;Desarrollo+Web+%7C+Node.js+%2B+React;Explorando+Linux+%2F+Bash;En+búsqueda+de+mi+primera+experiencia+laboral" alt="Typing SVG" />
 </a>
-
 </div>
-
 <br>
+##👋 Sobre mí
 
-## 👋 Sobre mí
+Soy Facu, tengo 19 años y vivo en Villa María, Córdoba, Argentina. Estoy cursando 2° año de la **Tecnicatura en Analista en Sistemas** en el Instituto Leibnitz, y mientras tanto me dedico a construir proyectos reales: desde sistemas de gestión con backend en Node.js hasta dashboards de datos. Me gusta entender cómo funcionan las cosas de abajo hacia arriba, por eso además de la web me metí de lleno con **Linux y Ubuntu**.
 
-Soy Facu, tengo 19 años y vivo en Villa María, Córdoba, Argentina. Estoy cursando 2° año de la **Tecnicatura en Analista en Sistemas** en el Instituto Leibnitz, y mientras tanto me dedico a construir proyectos reales: desde sistemas de gestión con backend en Node.js hasta dashboards de datos deportivos. Me gusta entender cómo funcionan las cosas de abajo hacia arriba, por eso además de la web me metí de lleno con **Linux y la terminal**.
-
-- 🔭 Actualmente construyendo **Dani-Mar**, un sistema de gestión para una empresa de reparto de agua
+- 🔭 Actualmente construi **Dani-Mar**, un sistema de gestión para una empresa de reparto de agua
 - 🌱 Aprendiendo Bash a fondo: quiero poder escribir scripts de línea de comandos profesionales, mantenibles y con tests
-- ⚽ Como hobby, hago análisis de datos deportivos (predicciones del Mundial 2026 con dashboards en React)
+- ⚽ Como hobby, hago análisis de datos (predicciones del Mundial 2026 con dashboards en React)
 - 💼 Buscando mi primera oportunidad laboral en desarrollo de software
 - 📫 Cómo contactarme: más abajo 👇
 
@@ -51,8 +37,6 @@ Soy Facu, tengo 19 años y vivo en Villa María, Córdoba, Argentina. Estoy curs
 </a>
 
 </div>
-
-**🧳 MG-Adventure** — Sistema de agencia de viajes con Node.js y MongoDB. Gestiona rutas turísticas preestablecidas, agenda, ejecución de viajes y ventas.
 
 **💧 Dani-Mar** — Sistema de gestión para una empresa de reparto de bidones de agua (20L/12L), máquinas dispenser y sifones. Backend con Node.js + Express + Mongoose, desplegado en Render y conectado a MongoDB Atlas.
 
