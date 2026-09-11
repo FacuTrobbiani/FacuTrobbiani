@@ -15,7 +15,7 @@ Soy Facu, tengo 19 años y vivo en Villa María, Córdoba, Argentina. Estoy curs
 
 <br>
 
-- 🛠️ Stack
+-🛠️ Stack
 
 <div align="center">
 <img src="https://skillicons.dev/icons?i=js,ts,nodejs,express,mongodb,react,tailwind,html,css,python,linux,bash,git,github&theme=dark" />
@@ -23,7 +23,7 @@ Soy Facu, tengo 19 años y vivo en Villa María, Córdoba, Argentina. Estoy curs
 
 <br>
 
-- 🚀 Proyectos destacados
+-🚀 Proyectos destacados
 
 </div>
 
@@ -31,7 +31,7 @@ Soy Facu, tengo 19 años y vivo en Villa María, Córdoba, Argentina. Estoy curs
 
 <br>
 
-- 📊 Estadísticas
+-📊 Estadísticas
 
 <div align="center">
 
@@ -46,7 +46,7 @@ Soy Facu, tengo 19 años y vivo en Villa María, Córdoba, Argentina. Estoy curs
 
 <br>
 
-- 📬 Contacto
+-📬 Contacto
 
 <div align="center">
 
