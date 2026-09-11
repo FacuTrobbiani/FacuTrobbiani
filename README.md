@@ -1,7 +1,5 @@
 <div align="center">
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Facundo%20Trobbiani&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Estudiante%20de%20Sistemas%20%7C%20Desarrollador%20en%20formación&descAlignY=55&descSize=18" alt="header banner" />
-<a href="https://github.com/tu-usuario">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Analista+de+Sistemas+en+formación;Desarrollo+Web+%7C+Node.js+%2B+React;Explorando+Linux+%2F+Bash;En+búsqueda+de+mi+primera+experiencia+laboral" alt="Typing SVG" />
 </a>
 </div>
 <br>
@@ -26,15 +24,6 @@ Soy Facu, tengo 19 años y vivo en Villa María, Córdoba, Argentina. Estoy curs
 <br>
 
 - 🚀 Proyectos destacados
-
-<div align="center">
-
-<a href="https://github.com/tu-usuario/mg-adventure">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=tu-usuario&repo=mg-adventure&theme=tokyonight&hide_border=true" />
-</a>
-<a href="https://github.com/tu-usuario/Dani-Mar">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=tu-usuario&repo=Dani-Mar&theme=tokyonight&hide_border=true" />
-</a>
 
 </div>
 
