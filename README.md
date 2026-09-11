@@ -1,5 +1,5 @@
 <div align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Facundo%20Trobbiani&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Estudiante%20de%20Sistemas%20%7C%20Desarrollador%20en%20formación&descAlignY=55&descSize=18" alt="header banner" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Facundo%20Trobbiani&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Analista%20en%20Sistemas%20%7C%20Desarrollador%20Web&descAlignY=55&descSize=18" alt="header banner" />
 </div>
 <br>
 👋 SOBRE MI
@@ -14,11 +14,32 @@ Soy Facu, tengo 19 años y vivo en Villa María, Córdoba, Argentina. Estoy curs
 
 <br>
 
--🛠️ STACK
+-🛠️ STACK Y APTITUDES
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=js,ts,nodejs,express,mongodb,react,tailwind,html,css,python,linux,bash,git,github&theme=dark" />
+<img src="https://skillicons.dev/icons?i=js,ts,nodejs,express,mongodb,postgres,react,tailwind,html,css,python,linux,ubuntu,bash,git,github&theme=dark" />
 </div>
+
+<div align="center">
+
+![Shell Scripting](https://img.shields.io/badge/Shell%20Scripting-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Trabajo en equipo](https://img.shields.io/badge/Trabajo%20en%20equipo-2ea44f?style=for-the-badge)
+![Gestión del tiempo](https://img.shields.io/badge/Gesti%C3%B3n%20del%20tiempo-2ea44f?style=for-the-badge)
+
+</div>
+
+<br>
+
+-🎓 CERTIFICADOS
+
+ <div align="center">  Linux Nivel Inicial — Instituto Leibnitz (2026)  </div>
+<div align="center"> 
+
+<img width="300" alt="image" src="https://github.com/user-attachments/assets/0aec4331-7e4d-44fc-8e8d-0a33bd531646" alt="Certificado Linux Nivel Inicial - Instituto Leibnitz" />
+
+
+</div>
+
 
 <br>
 
@@ -26,7 +47,7 @@ Soy Facu, tengo 19 años y vivo en Villa María, Córdoba, Argentina. Estoy curs
 
 </div>
 
-💧 Dani-Mar** — Sistema de gestión para una empresa de reparto de bidones de agua (20L/12L), máquinas dispenser y sifones. Backend con Node.js + Express + Mongoose, desplegado en Render y conectado a MongoDB Atlas.
+💧 Dani-Mar: Sistema de gestión para una empresa de reparto de bidones de agua (20L/12L), máquinas dispenser y sifones. Backend con Node.js + Express + Mongoose, desplegado en Render y conectado a MongoDB Atlas.
 
 <br>
 
