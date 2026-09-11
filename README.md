@@ -3,7 +3,7 @@
 </a>
 </div>
 <br>
-👋 Sobre mí
+👋 SOBRE MI
 
 Soy Facu, tengo 19 años y vivo en Villa María, Córdoba, Argentina. Estoy cursando 2° año de la **Tecnicatura en Analista en Sistemas** en el Instituto Leibnitz, y mientras tanto me dedico a construir proyectos reales: desde sistemas de gestión con backend en Node.js hasta dashboards de datos. Me gusta entender cómo funcionan las cosas de abajo hacia arriba, por eso además de la web me metí de lleno con **Linux y Ubuntu**.
 
@@ -15,7 +15,7 @@ Soy Facu, tengo 19 años y vivo en Villa María, Córdoba, Argentina. Estoy curs
 
 <br>
 
--🛠️ Stack
+- 🛠️ Stack
 
 <div align="center">
 <img src="https://skillicons.dev/icons?i=js,ts,nodejs,express,mongodb,react,tailwind,html,css,python,linux,bash,git,github&theme=dark" />
@@ -27,11 +27,11 @@ Soy Facu, tengo 19 años y vivo en Villa María, Córdoba, Argentina. Estoy curs
 
 </div>
 
--💧 Dani-Mar** — Sistema de gestión para una empresa de reparto de bidones de agua (20L/12L), máquinas dispenser y sifones. Backend con Node.js + Express + Mongoose, desplegado en Render y conectado a MongoDB Atlas.
+💧 Dani-Mar** — Sistema de gestión para una empresa de reparto de bidones de agua (20L/12L), máquinas dispenser y sifones. Backend con Node.js + Express + Mongoose, desplegado en Render y conectado a MongoDB Atlas.
 
 <br>
 
--📊 Estadísticas
+- 📊 Estadísticas
 
 <div align="center">
 
@@ -46,7 +46,7 @@ Soy Facu, tengo 19 años y vivo en Villa María, Córdoba, Argentina. Estoy curs
 
 <br>
 
--📬 Contacto
+- 📬 Contacto
 
 <div align="center">
 
