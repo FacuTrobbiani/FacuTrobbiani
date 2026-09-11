@@ -1,6 +1,5 @@
 <div align="center">
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Facundo%20Trobbiani&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Estudiante%20de%20Sistemas%20%7C%20Desarrollador%20en%20formación&descAlignY=55&descSize=18" alt="header banner" />
-</a>
 </div>
 <br>
 👋 SOBRE MI
@@ -39,10 +38,10 @@ Soy Facu, tengo 19 años y vivo en Villa María, Córdoba, Argentina. Estoy curs
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/tu-linkedin">
+<a href= "https://www.linkedin.com/in/facundo-trobbiani-36884734b"/>
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="mailto:tu-mail@gmail.com">
+<a href="mailto:facutrobbiani99@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
