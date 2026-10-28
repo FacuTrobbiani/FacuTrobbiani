@@ -1,71 +1,20 @@
-<div align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Facundo%20Trobbiani&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Analista%20en%20Sistemas%20%7C%20Desarrollador%20Web&descAlignY=55&descSize=18" alt="header banner" />
-</div>
-<br>
-👋 SOBRE MI
-
-Soy Facu, tengo 19 años y vivo en Villa María, Córdoba, Argentina. Estoy cursando 2° año de la **Tecnicatura en Analista en Sistemas** en el Instituto Leibnitz, y mientras tanto me dedico a construir proyectos reales: desde sistemas de gestión con backend en Node.js hasta dashboards de datos. Me gusta entender cómo funcionan las cosas de abajo hacia arriba, por eso además de la web me metí de lleno con **Linux y Ubuntu**.
-
-- 🔭 Actualmente construi **Dani-Mar**, un sistema de gestión para una empresa de reparto de agua
-- 🌱 Aprendiendo Bash a fondo: quiero poder escribir scripts de línea de comandos profesionales, mantenibles y con tests
-- ⚽ Como hobby, hago análisis de datos (predicciones del Mundial 2026 con dashboards en React)
-- 💼 Buscando mi primera oportunidad laboral en desarrollo de software
-- 📫 Cómo contactarme: más abajo 👇
-
-<br>
-
--🛠️ STACK Y APTITUDES
-
-<div align="center">
-<img src="https://skillicons.dev/icons?i=js,ts,nodejs,express,mongodb,postgres,react,tailwind,html,css,python,linux,ubuntu,bash,git,github&theme=dark" />
-</div>
-
-<div align="center">
-
-![Shell Scripting](https://img.shields.io/badge/Shell%20Scripting-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![Trabajo en equipo](https://img.shields.io/badge/Trabajo%20en%20equipo-2ea44f?style=for-the-badge)
-![Gestión del tiempo](https://img.shields.io/badge/Gesti%C3%B3n%20del%20tiempo-2ea44f?style=for-the-badge)
-
-</div>
-
-<br>
-
 -🎓 CERTIFICADOS
 
- <div align="center">  Linux Nivel Inicial — Instituto Leibnitz (2026)  </div>
-<div align="center"> 
-
-<img width="300" alt="image" src="https://github.com/user-attachments/assets/0aec4331-7e4d-44fc-8e8d-0a33bd531646" alt="Certificado Linux Nivel Inicial - Instituto Leibnitz" />
-
-
-</div>
-
-
-<br>
-
--🚀 PROYECTOS
-
-</div>
-
-💧 Dani-Mar: Sistema de gestión para una empresa de reparto de bidones de agua (20L/12L), máquinas dispenser y sifones. Backend con Node.js + Express + Mongoose, desplegado en Render y conectado a MongoDB Atlas.
-
-<br>
-
--📊 ESTADISTICAS
-
-<div align="center"> <img width="500" src="https://github-streak-bijay-shre-stha.vercel.app/api/streak-image?username=FacuTrobbiani&theme=default" alt="GitHub Streak" /> </div>
-
--📬 CONTACTO
-
 <div align="center">
 
-<a href= "https://www.linkedin.com/in/facundo-trobbiani-36884734b"/>
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="mailto:facutrobbiani99@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
+<table>
+  <tr>
+    <td align="center">
+      <img width="300" src="https://github.com/user-attachments/assets/0aec4331-7e4d-44fc-8e8d-0a33bd531646" alt="Certificado Linux Nivel Inicial - Instituto Leibnitz" />
+      <br>
+      <sub><b>Linux Nivel Inicial</b> — Instituto Leibnitz (2026)</sub>
+    </td>
+    <td align="center">
+      <img width="300" src="PEGA_AQUI_LA_URL_DEL_CERTIFICADO_GITHUB" alt="Certificado GitHub Inicial - Instituto Leibnitz" />
+      <br>
+      <sub><b>GitHub Inicial</b> — Instituto Leibnitz (2026)</sub>
+    </td>
+  </tr>
+</table>
 
 </div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=100&section=footer" />
