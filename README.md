@@ -44,7 +44,7 @@ Soy Facu, tengo 19 años y vivo en Villa María, Córdoba, Argentina. Estoy curs
       <sub><b>Linux Nivel Inicial</b> — Instituto Leibnitz (2026)</sub>
     </td>
     <td align="center">
-      <img width="300" src="PEGA_AQUI_LA_URL_DEL_CERTIFICADO_GITHUB" alt="Certificado GitHub Inicial - Instituto Leibnitz" />
+         <img width="300" src="certificado-github-inicial.png" alt="Certificado GitHub Inicial - Instituto Leibnitz" />
       <br>
       <sub><b>GitHub Inicial</b> — Instituto Leibnitz (2026)</sub>
     </td>
