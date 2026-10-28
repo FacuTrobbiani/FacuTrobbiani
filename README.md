@@ -58,6 +58,7 @@ Soy Facu, tengo 20 años y vivo en Villa María, Córdoba, Argentina. Estoy curs
 
 💧 **Dani-Mar:** Sistema de gestión para una empresa de reparto de bidones de agua (20L/12L), máquinas dispenser y sifones. Backend con Node.js + Express + Mongoose, desplegado en Render y conectado a MongoDB Atlas.
 
+<br>🏦 **Banco Nodo:** Sistema bancario que permite crear cuentas, hacer depósitos, transferencias y consultar movimientos (incluye módulos de recarga de celular, pago de servicios y reportes). con backend en Node.js + Express y un dashboard de estética fintech en modo oscuro, hecho con HTML, CSS y JavaScript. 
 <br>
 
 ## 📊 ESTADÍSTICAS
