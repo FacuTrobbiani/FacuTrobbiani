@@ -6,11 +6,10 @@
 
 ## 👋 SOBRE MÍ
 
-Soy Facu, tengo 19 años y vivo en Villa María, Córdoba, Argentina. Estoy cursando 2° año de la **Tecnicatura en Analista en Sistemas** en el Instituto Leibnitz, y mientras tanto me dedico a construir proyectos reales: desde sistemas de gestión con backend en Node.js hasta dashboards de datos. Me gusta entender cómo funcionan las cosas de abajo hacia arriba, por eso además de la web me metí de lleno con **Linux y Ubuntu**.
+Soy Facu, tengo 20 años y vivo en Villa María, Córdoba, Argentina. Estoy cursando 2° año de la **Tecnicatura en Analista en Sistemas** en el Instituto Leibnitz, y mientras tanto me dedico a construir proyectos reales: desde sistemas de gestión con backend en Node.js hasta dashboards de datos. Me gusta entender cómo funcionan las cosas de abajo hacia arriba, por eso además de la web me metí de lleno con **Linux y Ubuntu**.
 
-- 🔭 Actualmente construí **Dani-Mar**, un sistema de gestión para una empresa de reparto de agua
+- 🔭 Actualmente construí Dani-Mar: un sistema de gestión para una empresa de reparto de agua y Banco Nodo
 - 🌱 Aprendiendo Bash a fondo: quiero poder escribir scripts de línea de comandos profesionales, mantenibles y con tests
-- ⚽ Como hobby, hago análisis de datos (predicciones del Mundial 2026 con dashboards en React)
 - 💼 Buscando mi primera oportunidad laboral en desarrollo de software
 - 📫 Cómo contactarme: más abajo 👇
 
@@ -44,7 +43,7 @@ Soy Facu, tengo 19 años y vivo en Villa María, Córdoba, Argentina. Estoy curs
       <sub><b>Linux Nivel Inicial</b> — Instituto Leibnitz (2026)</sub>
     </td>
     <td align="center">
-         <img width="300" src="https://raw.githubusercontent.com/FacuTrobbiani/FacuTrobbiani/main/certificado-github-inicial.png" alt="Certificado GitHub Inicial - Instituto Leibnitz" />
+      <img width="300" alt="Captura de pantalla 2026-10-28 011942" src="https://github.com/user-attachments/assets/21aaf9e0-81d1-4203-a3f3-920c87ea1681" />
       <br>
       <sub><b>GitHub Inicial</b> — Instituto Leibnitz (2026)</sub>
     </td>
