@@ -8,7 +8,7 @@
 
 Soy Facu, tengo 20 años y vivo en Villa María, Córdoba, Argentina. Estoy cursando 2° año de la **Tecnicatura en Analista en Sistemas** en el Instituto Leibnitz, y mientras tanto me dedico a construir proyectos reales: desde sistemas de gestión con backend en Node.js hasta dashboards de datos. Me gusta entender cómo funcionan las cosas de abajo hacia arriba, por eso además de la web me metí de lleno con **Linux y Ubuntu**.
 
-- 🔭 Actualmente construí Dani-Mar: un sistema de gestión para una empresa de reparto de agua y Banco Nodo
+- 🔭 Construí **Dani-Mar** (sistema de gestión para una empresa de reparto de agua), **Banco Nodo** (sistema bancario) y un **sistema de gestión de eventos estudiantiles**
 - 🌱 Aprendiendo Bash a fondo: quiero poder escribir scripts de línea de comandos profesionales, mantenibles y con tests
 - 💼 Buscando mi primera oportunidad laboral en desarrollo de software
 - 📫 Cómo contactarme: más abajo 👇
@@ -18,7 +18,7 @@ Soy Facu, tengo 20 años y vivo en Villa María, Córdoba, Argentina. Estoy curs
 ## 🛠️ STACK Y APTITUDES
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=js,ts,nodejs,express,mongodb,postgres,react,tailwind,html,css,python,linux,ubuntu,bash,git,github&theme=dark" />
+<img src="https://skillicons.dev/icons?i=js,ts,nodejs,express,mongodb,postgres,react,vite,tailwind,html,css,python,linux,ubuntu,bash,git,github,docker,nginx&theme=dark" />
 </div>
 
 <div align="center">
@@ -58,7 +58,10 @@ Soy Facu, tengo 20 años y vivo en Villa María, Córdoba, Argentina. Estoy curs
 
 💧 **Dani-Mar:** Sistema de gestión para una empresa de reparto de bidones de agua (20L/12L), máquinas dispenser y sifones. Backend con Node.js + Express + Mongoose, desplegado en Render y conectado a MongoDB Atlas.
 
-<br>🏦 **Banco Nodo:** Sistema bancario que permite crear cuentas, hacer depósitos, transferencias y consultar movimientos (incluye módulos de recarga de celular, pago de servicios y reportes). con backend en Node.js + Express y un dashboard de estética fintech en modo oscuro, hecho con HTML, CSS y JavaScript. 
+🏦 **Banco Nodo:** Sistema bancario con backend en Node.js + Express que permite crear cuentas, hacer depósitos, transferencias y consultar movimientos. Incluye módulos de recarga de celular, pago de servicios y reportes, con un dashboard de estética fintech en modo oscuro hecho con HTML, CSS y JavaScript.
+
+🎉 **Sistema de gestión de eventos estudiantiles:** Aplicación web para gestionar encargos de eventos de centros de estudiantes: solicitudes, propuestas, servicios, tareas, cambios y cierre. Backend con Node.js + Express y PostgreSQL, interfaz en React + Vite, autenticación con Clerk e infraestructura con Docker Compose y Nginx.
+
 <br>
 
 ## 📊 ESTADÍSTICAS
